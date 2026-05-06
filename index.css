@@ -5,6 +5,14 @@
 }
 
 body{
-  background-color: blue;
-  color: white;
+  background-color: #f6f6f6;
+  color: black;
+}
+
+button{
+  background-color: gold;
+  border-radius: 5px;
+  height: 2rem;
+  width: 6rem;
+  margin: 2rem;
 }
