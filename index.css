@@ -16,3 +16,7 @@ button{
   width: 6rem;
   margin: 2rem;
 }
+
+li {
+  list-style: none;
+}
