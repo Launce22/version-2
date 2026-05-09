@@ -16,6 +16,7 @@ button{
   height: 2rem;
   width: 6rem;
   margin: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 li {
